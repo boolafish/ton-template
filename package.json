@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "@ton-community/func-js": "^0.4.0",
+    "bn.js": "^5.2.1",
+    "chai": "^4.3.7",
+    "chai-bn": "^0.3.1",
+    "mocha": "^10.2.0",
+    "prando": "^6.0.1",
+    "ton": "12.3.3",
+    "ton-contract-executor": "^0.6.2",
+    "ts-mocha": "^10.0.0",
+    "ts-node": "^10.9.1",
+    "@types/mocha": "^10.0.1"
+  }
+}
